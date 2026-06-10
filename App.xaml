@@ -1,0 +1,8 @@
+﻿<Application x:Class="lab13_rpm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:lab13_rpm">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
